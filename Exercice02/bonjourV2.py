@@ -1,3 +1,4 @@
-print("Bonjour ! Quel est votre prénom ?")
-print("Ismael")
-print("Ismael, enchanté moi c'est James, James Bond.")
+a= input("Bonjour ! Quel est votre prénom ?")
+b=input(" moi ")
+print(f"Enchanté {a} moi c est {b} ")
+
